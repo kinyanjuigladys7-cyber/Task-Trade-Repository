@@ -1,2 +1,3 @@
-# Task-Trade-Repository
-trading assigned
+Gladys Kinyanjui
+126129
+practical
